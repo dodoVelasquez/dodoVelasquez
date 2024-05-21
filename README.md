@@ -5,6 +5,7 @@
 </div>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dodovelasquez&label=Profile%20views&color=0e75b6&style=flat" alt="dodovelasquez" /> </p>
 
+
 <ul>
   <li>🔭 I’m currently working on DotNet, C#, SQLServer...</li>
   <li>🌱 I’m currently learning React :)</li>
