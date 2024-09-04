@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm dvelasquez</h1>
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dodovelasquez&label=Profile%20views&color=0e75b6&style=flat" alt="dodovelasquez" /> </p>
 
 
@@ -14,7 +11,7 @@
  <div align="center" id="user-content-toc">
    <ul align="center">
      <summary >
-       <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
+       <h2 style="display: inline-block">Technologies That I Know/Learning 👨🏻‍💻</h2>
      </summary>
    </ul>
  </div>
