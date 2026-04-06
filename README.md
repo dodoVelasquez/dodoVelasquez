@@ -22,15 +22,6 @@
 </p>
 
 </br>
-</br>
-</br>
-
-<p align="center"><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=dodovelasquez&show_icons=true&locale=en&layout=compact"
-        alt="dodovelasquez" />
-</p>
-
-</br>
 </hr>
 
 <div align="center" class="icons-social" style="margin-left: 10px;">
